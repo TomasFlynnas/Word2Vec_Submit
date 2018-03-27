@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jfree:jfreechart:${jfreechart.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jfree/jfreechart/${jfreechart.version}/jfreechart-${jfreechart.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/jfree/jfreechart/${jfreechart.version}/jfreechart-${jfreechart.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/jfree/jfreechart/${jfreechart.version}/jfreechart-${jfreechart.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

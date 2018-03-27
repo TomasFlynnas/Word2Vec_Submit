@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.nd4j:${nd4j.backend}:${nd4j.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/${nd4j.backend}/${nd4j.version}/${nd4j.backend}-${nd4j.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/${nd4j.backend}/${nd4j.version}/${nd4j.backend}-${nd4j.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/${nd4j.backend}/${nd4j.version}/${nd4j.backend}-${nd4j.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.datavec:datavec-data-codec:${datavec.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-data-codec/${datavec.version}/datavec-data-codec-${datavec.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-data-codec/${datavec.version}/datavec-data-codec-${datavec.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-data-codec/${datavec.version}/datavec-data-codec-${datavec.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

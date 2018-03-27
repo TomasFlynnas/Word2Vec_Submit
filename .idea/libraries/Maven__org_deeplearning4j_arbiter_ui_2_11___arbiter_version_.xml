@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.deeplearning4j:arbiter-ui_2.11:${arbiter.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/arbiter-ui_2.11/${arbiter.version}/arbiter-ui_2.11-${arbiter.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/arbiter-ui_2.11/${arbiter.version}/arbiter-ui_2.11-${arbiter.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/arbiter-ui_2.11/${arbiter.version}/arbiter-ui_2.11-${arbiter.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
